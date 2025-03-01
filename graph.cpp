@@ -594,7 +594,7 @@ void display(void) {
 		char text4[64] = "Press Left Mouse to place Nodes and Right Mouse to remove Nodes";
 		char text5[35] = "Press <ESC KEY> to quit the window";
 		char text6[13] = "Created By:";
-		char text7[23] = "Ayush Naik, Arjun Naik";
+		char text7[23] = "Sushant";
 		char text8[23] = "2BL18CS012, 2BL18CS010";
 		drawString(findBitmapMidPoint(collegeName), 3, 0.0, collegeName);
 		drawString(findBitmapMidPoint(dept), 6, 0.0, dept);
